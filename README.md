@@ -1,0 +1,3 @@
+Documento Didático: U4_A4_PARADIGMAS_EM_PROJETO_DE_SOFTWARE_ESTRATEGICO.pdf
+Git Documentation
+GitHub Guides
